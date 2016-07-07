@@ -1,0 +1,253 @@
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swx
+INFO:runtime:Finding file.3.md.swx under new being modified
+INFO:runtime:Finding file .3.md.swx being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 3.md
+INFO:runtime:create note with title 3 under notebook new
+INFO:runtime:Create note3finished!
+INFO:runtime:Finding file3.md under new being modified
+INFO:runtime:Update the note with title 3 under notebook new
+INFO:runtime:Update note finished!
+INFO:runtime:Finding file 3.md~ being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swx
+INFO:runtime:Finding file.3.md.swx under new being modified
+INFO:runtime:Finding file .3.md.swx being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 3.md
+INFO:runtime:create note with title 3 under notebook new
+INFO:runtime:Create note3finished!
+INFO:runtime:Finding file3.md under new being modified
+INFO:runtime:Update the note with title 3 under notebook new
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swx
+INFO:runtime:Finding file.3.md.swx under new being modified
+INFO:runtime:Finding file .3.md.swx being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 3.md
+INFO:runtime:create note with title 3 under notebook new
+INFO:runtime:Create note3finished!
+INFO:runtime:Finding file3.md under new being modified
+INFO:runtime:Update the note with title 3 under notebook new
+INFO:runtime:Update note finished!
+INFO:runtime:Finding file 3.md~ being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swx
+INFO:runtime:Finding file.3.md.swx under new being modified
+INFO:runtime:Finding file .3.md.swx being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 3.md
+INFO:runtime:create note with title 3 under notebook new
+INFO:runtime:Create note3finished!
+INFO:runtime:Finding file3.md under new being modified
+INFO:runtime:Update the note with title 3 under notebook new
+INFO:runtime:Update note finished!
+INFO:runtime:Finding file 3.md~ being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swx
+INFO:runtime:Finding file.3.md.swx under new being modified
+INFO:runtime:Finding file .3.md.swx being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .3.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 3.md
+INFO:runtime:create note with title 3 under notebook new
+INFO:runtime:Create note3finished!
+INFO:runtime:Finding file3.md under new being modified
+INFO:runtime:Update the note with title 3 under notebook new
+INFO:runtime:Update note finished!
+INFO:runtime:Finding file 3.md~ being deleted under notebook new
+INFO:runtime:Finding file.3.md.swp under new being modified
+INFO:runtime:Finding file .3.md.swp being deleted under notebook new
+INFO:runtime:Finding file 3.md being deleted under notebook new
+INFO:runtime:Deleting note finished!
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/my test notebook! test1.md
+INFO:runtime:create note with title test1 under notebook my test notebook!
+INFO:runtime:Create notetest1finished!
+INFO:runtime:Finding filetest1.md under my test notebook! being modified
+INFO:runtime:Update the note with title test1 under notebook my test notebook!
+INFO:runtime:Update note finished!
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/my test notebook! .test1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/my test notebook! .test1.md.swx
+INFO:runtime:Finding file.test1.md.swx under my test notebook! being modified
+INFO:runtime:Finding file .test1.md.swx being deleted under notebook my test notebook!
+INFO:runtime:Finding file.test1.md.swp under my test notebook! being modified
+INFO:runtime:Finding file .test1.md.swp being deleted under notebook my test notebook!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/my test notebook! .test1.md.swp
+INFO:runtime:Finding file.test1.md.swp under my test notebook! being modified
+INFO:runtime:Finding file .test1.md.swp being deleted under notebook my test notebook!
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swx
+INFO:runtime:Finding file.1.md.swx under new being modified
+INFO:runtime:Finding file .1.md.swx being deleted under notebook new
+INFO:runtime:Finding file.1.md.swp under new being modified
+INFO:runtime:Finding file .1.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 1.md
+INFO:runtime:create note with title 1 under notebook new
+INFO:runtime:Create note1finished!
+INFO:runtime:Finding file1.md under new being modified
+INFO:runtime:Update the note with title 1 under notebook new
+INFO:runtime:Update note finished!
+INFO:runtime:Finding file 1.md~ being deleted under notebook new
+INFO:runtime:Finding file.1.md.swp under new being modified
+INFO:runtime:Finding file .1.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swx
+INFO:runtime:Finding file.1.md.swx under new being modified
+INFO:runtime:Finding file .1.md.swx being deleted under notebook new
+INFO:runtime:Finding file.1.md.swp under new being modified
+INFO:runtime:Finding file .1.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 1.md
+INFO:runtime:create note with title 1 under notebook new
+INFO:runtime:Create note1finished!
+INFO:runtime:Finding file1.md under new being modified
+INFO:runtime:Update the note with title 1 under notebook new
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swx
+INFO:runtime:Finding file.1.md.swx under new being modified
+INFO:runtime:Finding file .1.md.swx being deleted under notebook new
+INFO:runtime:Finding file.1.md.swp under new being modified
+INFO:runtime:Finding file .1.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 1.md
+INFO:runtime:create note with title 1 under notebook new
+INFO:runtime:Create note1finished!
+INFO:runtime:Finding file1.md under new being modified
+INFO:runtime:Update the note with title 1 under notebook new
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swx
+INFO:runtime:Finding file.1.md.swx under new being modified
+INFO:runtime:Finding file .1.md.swx being deleted under notebook new
+INFO:runtime:Finding file.1.md.swp under new being modified
+INFO:runtime:Finding file .1.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 1.md
+INFO:runtime:create note with title 1 under notebook new
+INFO:runtime:Create note1finished!
+INFO:runtime:Finding file1.md under new being modified
+INFO:runtime:Update the note with title 1 under notebook new
+INFO:runtime:Update note finished!
+INFO:runtime:Finding file 1.md~ being deleted under notebook new
+INFO:runtime:Finding file.1.md.swp under new being modified
+INFO:runtime:Finding file .1.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swx
+INFO:runtime:Finding file.1.md.swx under new being modified
+INFO:runtime:Finding file .1.md.swx being deleted under notebook new
+INFO:runtime:Finding file.1.md.swp under new being modified
+INFO:runtime:Finding file .1.md.swp being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new .1.md.swp
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 1.md
+INFO:runtime:create note with title 1 under notebook new
+INFO:runtime:Create note1finished!
+INFO:runtime:Finding file1.md under new being modified
+INFO:runtime:Update the note with title 1 under notebook new
+INFO:runtime:----------Load the CONF----------
+INFO:runtime:Login succeed
+INFO:runtime:SYN_METADATA START
+INFO:runtime:Begin sync the notebooks metadata!
+INFO:runtime:Begin sync the notes metadata
+INFO:runtime:SYNC_METADATA SUCCEED!
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 4913
+INFO:runtime:Finding file4913 under new being modified
+INFO:runtime:Finding file 4913 being deleted under notebook new
+INFO:runtime:Create:/home/xiao/evernote/MarkNote/work/new 1.md
+INFO:runtime:create note with title 1 under notebook new
+INFO:runtime:Create note1finished!
+INFO:runtime:Finding file1.md under new being modified
+INFO:runtime:Update the note with title 1 under notebook new

@@ -1,0 +1,15 @@
+[submodule "evernote"]
+	path = evernote
+	url = git://github.com/evernote/evernote-sdk-python3/
+[submodule "markdown-css-themes"]
+	path = markdown-css-themes
+	url = git://github.com/jasonm23/markdown-css-themes
+[submodule "mistune"]
+	path = mistune
+	url = https://github.com/lepture/mistune
+[submodule "premailer"]
+	path = premailer
+	url = https://github.com/peterbe/premailer
+[submodule "pyinotify"]
+	path = pyinotify
+	url = https://github.com/seb-m/pyinotify
